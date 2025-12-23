@@ -1,0 +1,23 @@
+
+FedEx-LoRA:
+    https://ar5iv.labs.arxiv.org/html/2410.09432#:~:text=resulting%20in%20inexact%20updates,solution%20for%20accurate%20and%20effective
+
+
+https://github.com/lishenghui/awesome-fm-fl
+این ریپازیتوری کلی مقاله معرفی می کرد
+
+
+Flex-LoRA:
+    https://openreview.net/forum?id=gkOzoHBXUw&referrer=%5Bthe%20profile%20of%20Yaliang%20Li%5D(%2Fprofile%3Fid%3D~Yaliang_Li1)
+
+FRLoRA:
+    https://openreview.net/forum?id=e0rQRMUhs7
+
+FRLoRU:
+    https://openreview.net/forum?id=DdPeCRVyCd
+
+Survey on FedLoRA:
+    https://github.com/Lydia-yang/Awesome-Federated-LoRA?tab=readme-ov-file#12-lora-initialization  
+
+FSLoRA:
+    https://github.com/wenzhifang/Federated-Sketching-LoRA-Implementation
